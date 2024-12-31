@@ -1,0 +1,29 @@
+h1{
+    border: 7px groove;
+    text-align: center;
+}
+h1:hover{
+    background-color: aqua;
+    color: brown;
+}
+tr,td{
+    border: 6px groove rgb(96, 172, 200);
+    text-align: center;
+    width: ;
+
+}
+td:hover{
+    background-color: gold;
+    color: aqua;
+}
+table{border: solid groove;
+    width: 100%;
+    background-color: rgb(226, 224, 224);
+}
+#as{
+    width: 80px;
+}
+.asd{
+    border: none;
+}
+
