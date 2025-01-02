@@ -8,8 +8,7 @@ h1:hover{
 }
 tr,td{
     border: 6px groove rgb(96, 172, 200);
-    text-align: center;
-    width: ;
+    text-align: center
 
 }
 td:hover{
